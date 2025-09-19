@@ -8,7 +8,7 @@ Busco sempre aprender novas ferramentas e evoluir minhas habilidades em programa
 ## 📚 Tecnologias que estou aprendendo
 - 🌐 HTML | CSS | JavaScript  
 - ⚛️ React.js
-- <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40" alt="NestJS Logo"/>
+- <img src="https://nestjs.com/img/logo-small.svg" width="10" height="10" alt="NestJS Logo"/>
 Nestjs
 - 📦 Node.js | Express  
 - 🐬 MySQL | MongoDB  
