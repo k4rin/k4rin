@@ -10,7 +10,7 @@ Busco sempre aprender novas ferramentas e evoluir minhas habilidades em programa
 - ⚛️ React.js
 - <img src="https://nestjs.com/img/logo-small.svg" width="20" height="20" alt="NestJS Logo"/> Nestjs
 - 📦 Node.js | Express  
-- 🐬 MySQL | MongoDB  
+- 🐬 MySQL | MySQL  
 - ☁️ AWS | Docker  
 
 ---
