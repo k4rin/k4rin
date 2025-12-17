@@ -1,6 +1,6 @@
 # 👩‍💻 Olá, eu sou a Karine!
 
-Sou apaixonada por tecnologia e atualmente estou me especializando **JavaScript fullstack**, **computação em nuvem (AWS)** e **desenvolvimento de software**. 🚀  
+Sou apaixonada por tecnologia e atualmente estou me especializando **JavaScript fullstack** e **desenvolvimento de software**. 🚀  
 Busco sempre aprender novas ferramentas e evoluir minhas habilidades em programação.  
 
 ---
@@ -11,7 +11,7 @@ Busco sempre aprender novas ferramentas e evoluir minhas habilidades em programa
 - <img src="https://nestjs.com/img/logo-small.svg" width="20" height="20" alt="NestJS Logo"/> Nestjs
 - 📦 Node.js   
 - 🐬 MySQL | MySQL  
-- ☁️ AWS   
+
 
 ---
 
